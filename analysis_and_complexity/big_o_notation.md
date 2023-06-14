@@ -1,5 +1,5 @@
 ## Big-O Notation
-### Asymptotic Analysis
+### ⭐️ Asymptotic Analysis
 We don't have enough information to precisely predict the running time of an 
 algorithm, so we use asymptotic analysis and express the time complexity using
 Big-O notation.  Big-O notation provides an upper bound on the growth rate of 
@@ -19,7 +19,7 @@ time complexity, and that is input size. Big-O notation can be used to describe 
 algorithm's behavior as input size grows infinitely without having to take into account 
 the number of operations.
 
-### "Big-Oh" Notation
+### 🅾️ "Big-Oh" Notation
 Describes limiting behavior of a function when the argument tends towards a particular value.
 It describes the asymptotic behavior of a function.
 
