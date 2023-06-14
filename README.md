@@ -26,7 +26,7 @@ As I review concepts from my Algorithms and Data class and explore new ones, I w
 
 <a name="introduction"></a>
 ## Introduction to Algorithms and Data Structures
-* [Big-O Notation Notes] (https://github.com/hcarminati/study-algorithms/blob/main/analysis_and_complexity/big_o_notation.md)
+* [Big-O Notation Notes](https://github.com/hcarminati/study-algorithms/blob/main/analysis_and_complexity/big_o_notation.md)
 
 <a name="analysis_and_complexity"></a>
 ## Algorithm Analysis and Complexity
