@@ -1,8 +1,8 @@
 ## Mergesort
 ### ⭐️ Key Idea
-If the left array and right array are sorted lists of length n, then we can merge them into sorted list A of length 2n in time C<sub>n</sub>
-
 Merging two sorted lists is faster than sorting from scratch. 
+
+If the left array and right array are sorted lists of length n, then we can merge them into sorted list A of length 2n in time C<sub>n</sub>
 
 #### Example
 L : 3, 11, 28, 42 
@@ -28,3 +28,17 @@ H(n) : For every list A of size ≤ n, Mergesort(A) works
 
 #### Base Case
 H(1) is true "obviously"
+
+#### Inductive Step
+- Assume true: ∀n, H(n)
+- Prove: H(n+1)
+- Let A be a list of size n + 1.
+- L, R are lists of size ≤ n
+- L = Mergesort(L) is sorted, R = Mergesort(R) is sorted by inductive hypothesis
+- A = Mergesort(L, R) is sorted 
+
+### 🏃 Runtime of Mergesort
+T(n) : the running time on inputs of size n. The time depends on the input.
+
+T(n) = 2 ᐧ T(
+
