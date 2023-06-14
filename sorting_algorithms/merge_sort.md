@@ -1,4 +1,4 @@
-## Mergesort
+## Merge Sort
 ### ⭐️ Key Idea
 If the left array and right array are sorted lists of length n, then we can merge them into sorted list A of length 2n in time C<sub>n</sub>
 
@@ -18,7 +18,7 @@ A: 2, 3, 8, 11, ...
 Both arrays, L and R, are sorted. 
 All of A ≤ all of L + R
 
-### 👾 Mergesort Pseudocode 
+### 👾 Merge Sort Pseudocode 
 Mergesort(A): <br>
 &emsp;&emsp;If (n=1) : Return A <br>
 &emsp;&emsp;Let m ← ⎡n/2⎤ <br>
@@ -29,7 +29,7 @@ Mergesort(A): <br>
 &emsp;&emsp;Let A ← Merge(A) <br>
 &emsp;&emsp;Return A
 
-### ✅️ Correctness of Mergesort
+### ✅️ Correctness of Merge Sort
 #### Induction Sketch 
 At the start of iteration i:
 - We have i = j + k - 1, <br>
@@ -73,7 +73,7 @@ n = 1, List of length 1 is alwyas sorted.
 - Merge L and R together to obtain the final sorted array of size k + 1. 
 - A = Mergesort(L, R) is sorted.
  
-### 🏃 Runtime of Mergesort
+### 🏃 Runtime of Merge Sort
 T(n) : the running time on inputs of size n. The time depends on the input.
 
 T(n) = 2 ᐧ T(⎡n/2⎤) + C<sub>n</sub> <br>
