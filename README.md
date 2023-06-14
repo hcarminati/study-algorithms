@@ -1,6 +1,6 @@
 # Study Algorithms
 
-As I review concepts from my Algorithms and Data class and explore new ones, I will be adding my notes, cheetsheets, practice problems, and videos I find helpful to this repo. I hope the material here helps you on your learning journey...
+As I review concepts from my Algorithms and Data class and explore new ones, I will be adding my notes, cheat sheets, practice problems, and videos I find helpful to this repo. I hope the material here helps you on your learning journey...
 
 ### Concepts Overview
 * [Introduction to Algorithms and Data Structures](#introduction)
