@@ -12,7 +12,7 @@ As I review concepts from my Algorithms and Data class and explore new ones, I w
 * Heaps and Priority Queues
 * Hash Tables and Hashing
 * Graphs (Representation, Traversals, Shortest Paths)
-* Sorting Algorithms (Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort)
+* [Sorting Algorithms (Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort)](#sorting_algorithms)
 * Searching Algorithms (Linear Search, Binary Search)
 * [Dynamic Programming](#dynamic_programming)
 * Divide and Conquer Algorithms
@@ -30,6 +30,10 @@ As I review concepts from my Algorithms and Data class and explore new ones, I w
 
 <a name="analysis_and_complexity"></a>
 ## Algorithm Analysis and Complexity
+
+<a name="sorting_algorithms"></a>
+## Sorting Algorithms (Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort)
+* [Mergesort Notes](https://github.com/hcarminati/study-algorithms/blob/main/divide_and_conquer/mergesort.md)
 
 <a name="dynamic_programming"></a>
 ## Dynamic Programming
