@@ -14,9 +14,9 @@ As I review concepts from my Algorithms and Data class and explore new ones, I w
 * Graphs (Representation, Traversals, Shortest Paths)
 * Sorting Algorithms (Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort)
 * Searching Algorithms (Linear Search, Binary Search)
-* Dynamic Programming
+* [Dynamic Programming](#dynamic_programming)
 * Divide and Conquer Algorithms
-* Greedy Algorithms
+* [Greedy Algorithms](#greedy_algorithms)
 * Backtracking Algorithms
 * String Algorithms
 * Advanced Data Structures (Tries, B-trees, Red-Black Trees)
@@ -30,3 +30,14 @@ As I review concepts from my Algorithms and Data class and explore new ones, I w
 
 <a name="analysis_and_complexity"></a>
 ## Algorithm Analysis and Complexity
+
+<a name="dynamic_programming"></a>
+## Dynamic Programming
+### Videos
+* [Knapsack - Two Methods - Dynamic Programming (Abdul Bhari)](https://www.youtube.com/watch?v=nLmhmB6NzcM&t=449s)
+* [Matrix Chain Multiplication using Dynamic Programming Formula (Abdul Bhari)](https://www.youtube.com/watch?v=_WncuhSJZyA)
+
+<a name="greedy_algorithms"></a>
+## Greedy Algorithms
+### Videos
+* [Knapsack Problem - Greedy Method (Abdul Bhari)](https://www.youtube.com/watch?v=oTTzNMHM05I)
