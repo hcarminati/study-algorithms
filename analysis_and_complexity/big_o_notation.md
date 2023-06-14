@@ -8,7 +8,6 @@ an algorithm's running time.
 - Input size
 - The input itself
 - The machine that will run the algorithm
-<br>
 
 It is impractical to precisely count operations when analyzing the running time
 of an algorithm. Different factors, like the ones listed above, make it difficult to determine the exact number 
