@@ -3,8 +3,8 @@
 As I review concepts from my Algorithms and Data class and explore new ones, I will be adding my notes, cheetsheets, practice problems, and videos I find helpful to this repo. I hope the material here helps you on your learning journey...
 
 ### Concepts Overview
-* Introduction to Algorithms and Data Structures
-* Algorithm Analysis and Complexity
+* [Introduction to Algorithms and Data Structures](#introduction)
+* [Algorithm Analysis and Complexity](#analysis_and_complexity)
 * Arrays and Dynamic Arrays
 * Linked Lists
 * Stacks and Queues
@@ -23,3 +23,9 @@ As I review concepts from my Algorithms and Data class and explore new ones, I w
 * Advanced Graph Algorithms (Minimum Spanning Trees, Topological Sorting)
 * Advanced Sorting Algorithms (Radix Sort, Counting Sort)
 * NP-Completeness and Introduction to Computational Complexity
+
+<a name="introduction"></a>
+## Introduction to Algorithms and Data Structures
+
+<a name="analysis_and_complexity"></a>
+## Algorithm Analysis and Complexity
