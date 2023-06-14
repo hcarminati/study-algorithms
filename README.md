@@ -33,7 +33,8 @@ As I review concepts from my Algorithms and Data class and explore new ones, I w
 
 <a name="sorting_algorithms"></a>
 ## Sorting Algorithms
-* [Mergesort Notes](https://github.com/hcarminati/study-algorithms/blob/main/divide_and_conquer/mergesort.md)
+* [Insertion Sort Notes](https://github.com/hcarminati/study-algorithms/blob/main/sorting_algorithms/insertion_sort.md)
+* [Merge Sort Notes](https://github.com/hcarminati/study-algorithms/blob/main/divide_and_conquer/mergesort.md)
 
 <a name="dynamic_programming"></a>
 ## Dynamic Programming
