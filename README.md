@@ -32,7 +32,7 @@ As I review concepts from my Algorithms and Data class and explore new ones, I w
 ## Algorithm Analysis and Complexity
 
 <a name="sorting_algorithms"></a>
-## Sorting Algorithms (Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort)
+## Sorting Algorithms
 * [Mergesort Notes](https://github.com/hcarminati/study-algorithms/blob/main/divide_and_conquer/mergesort.md)
 
 <a name="dynamic_programming"></a>
